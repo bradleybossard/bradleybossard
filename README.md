@@ -3,6 +3,11 @@
 I am a software engineer.
 
 I am not an expert in a single language or library.  Instead, I view the art of software engineering as an understanding of languages as a set of features, each designed to solve different problems, and picking the best tool for the job at hand.
+
+### Personal 🥳
+
+I enjoy using my technical skills to be creative.  Short list (TODO: expand this!): 3D rendering/modeling/printing, web development, networking, reverse engineering, drones and robotics.
+
 <!--
 **bradleybossard/bradleybossard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

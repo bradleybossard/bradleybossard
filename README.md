@@ -1,4 +1,4 @@
-### Profeshional 🧑‍💼
+### Professional 🧑‍💼
 
 I am a software engineer.
 
